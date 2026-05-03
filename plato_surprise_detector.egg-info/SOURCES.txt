@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+plato_surprise/__init__.py
+plato_surprise_detector.egg-info/PKG-INFO
+plato_surprise_detector.egg-info/SOURCES.txt
+plato_surprise_detector.egg-info/dependency_links.txt
+plato_surprise_detector.egg-info/requires.txt
+plato_surprise_detector.egg-info/top_level.txt
+tests/test_surprise.py
